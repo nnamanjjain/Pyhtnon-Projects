@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Calulator.executor": "Run",
+    "Python.Pyhton-DB-Connection.executor": "Run",
     "Python.Task-1.executor": "Run",
     "Python.Task-2.executor": "Run",
     "Python.Tkinter-class-10.executor": "Run",
