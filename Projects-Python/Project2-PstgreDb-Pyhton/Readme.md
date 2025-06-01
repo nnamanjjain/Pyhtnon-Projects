@@ -21,6 +21,23 @@ Retrieving content from DB:
 Deleting Content from the table: 
 ![image](https://github.com/user-attachments/assets/e523c6f5-7028-4e3c-b041-837c933be72c)
 
+2. Installing, Setting up, and Activating Virtual ENV: (Check Notes):
+
+   pip install virtualenv
+   virtualenv env
+   activate (inside scripts directory)
+   
+3. Installing psycopg2 in cmd in virtualenv: (Check Notes):
+
+   pip install psycopg2
+
+4. Code in PyCharm or VS:
+   NOTE: The psycopg2 package will be installed automatically if you use PyCharm to import the package.
+
+   Please run the code as it is and check the results..You can make more changes accordingly and play around.
+
+   
+
 
 
 
